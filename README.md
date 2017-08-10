@@ -1,7 +1,11 @@
 # systemhacking
 system hacking 세미나
 
-## member
+## Materials
+- Linux
+- Memory
+
+## Member
 - 연지수
 - 박정훈
 - 허정화
@@ -9,3 +13,4 @@ system hacking 세미나
 - 강예지
 - 원혜진
 - 박가은
+
